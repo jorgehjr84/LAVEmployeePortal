@@ -1,0 +1,94 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Show Current Template"
+msgstr ""
+
+#. Screenshot description.
+msgid "Shows the current template file."
+msgstr ""
+
+#. Found in description list item.
+msgid "https://gist.github.com/gatespace/4482529"
+msgstr ""
+
+#. Found in description list item.
+msgid "http://wordpress.org/plugins/reveal-template/"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "A WordPress plugin which shows the current template file name, the current theme name and included template files' name in the tool bar."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Inspired by (and big thanks to):"
+msgstr ""
+
+#. Found in installation header.
+msgid "The Good Way"
+msgstr ""
+
+#. Found in installation header.
+msgid "The Old Way"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In your WordPress Admin, go to the Add New Plugins page"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Search for: Show Current Template"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Show Current Template should be the first result. Click the Install link."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the plugin to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Oops, too short."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UPDATED: Make the height of included files names shorter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UPDATED: update for 3.8."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED: update for 3.8."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED: Fixed the issue of not displaying the parent theme name when using a child theme."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UPDATED: Make not to show the current file in the included files list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED: Fixed some notices."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UPDATED: readme.txt"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "None so far."
+msgstr ""

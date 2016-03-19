@@ -1,0 +1,17 @@
+DateTimePicker by xdan, MIT License
+https://github.com/xdan/datetimepicker
+
+WP Alchemy Meta Boxes
+http://www.farinspace.com/wpalchemy-metabox/
+
+Taxonomy meta class
+http://en.bainternet.info/wordpress-taxonomies-extra-fields-the-easy-way/
+
+WP Posts to Posts
+https://github.com/scribu/wp-posts-to-posts
+
+Stupid Table
+https://github.com/joequery/Stupid-Table-Plugin
+
+Banner image
+https://www.flickr.com/photos/tjblackwell/5659432136/in/photostream/

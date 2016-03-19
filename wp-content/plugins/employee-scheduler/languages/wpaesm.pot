@@ -1,0 +1,1879 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Employee Scheduler\n"
+"POT-Creation-Date: 2015-05-01 10:54-0800\n"
+"PO-Revision-Date: 2015-05-01 10:55-0800\n"
+"Last-Translator: Morgan <morgan@wpalchemists.com>\n"
+"Language-Team: Morgan <morgan@wpalchemists.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Tax-meta-class/Tax-meta-class.php:250
+msgid "Delete this image"
+msgstr ""
+
+#: Tax-meta-class/Tax-meta-class.php:250 Tax-meta-class/Tax-meta-class.php:882
+msgid "Delete"
+msgstr ""
+
+#: Tax-meta-class/Tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: Tax-meta-class/Tax-meta-class.php:582 Tax-meta-class/Tax-meta-class.php:629
+msgid "Remove"
+msgstr ""
+
+#: Tax-meta-class/Tax-meta-class.php:595
+msgid "Add"
+msgstr ""
+
+#: Tax-meta-class/Tax-meta-class.php:878
+msgid "Uploaded files"
+msgstr ""
+
+#: Tax-meta-class/Tax-meta-class.php:889
+msgid "Upload new files"
+msgstr ""
+
+#: Tax-meta-class/Tax-meta-class.php:895
+msgid "Add more files"
+msgstr ""
+
+#: Tax-meta-class/Tax-meta-class.php:947
+msgid "Select a color"
+msgstr ""
+
+#: bulk-shift-creator.php:158
+msgid "Created %i new shifts.  <a href=\"%s\">View all shifts"
+msgstr ""
+
+#: bulk-shift-creator.php:162
+msgid "Bulk Add Shifts"
+msgstr ""
+
+#: bulk-shift-creator.php:163
+msgid ""
+"If you have a shift that repeats on a regular basis with the same employee, "
+"job, and time, you can bulk add it here instead of having to create each "
+"shift individually.  If you choose several employees, a separate series of "
+"shifts will be created for each employee."
+msgstr ""
+
+#: bulk-shift-creator.php:168
+msgid "Shift Name"
+msgstr ""
+
+#: bulk-shift-creator.php:174 employee-scheduler.php:754
+#: employee-scheduler.php:769 views.php:682 views.php:956 views.php:1071
+msgid "Job"
+msgstr ""
+
+#: bulk-shift-creator.php:197
+msgid "Employee(s)"
+msgstr ""
+
+#: bulk-shift-creator.php:214
+msgid "This shift repeats every:"
+msgstr ""
+
+#: bulk-shift-creator.php:218 options.php:205
+msgid "Monday"
+msgstr ""
+
+#: bulk-shift-creator.php:221 options.php:206
+msgid "Tuesday"
+msgstr ""
+
+#: bulk-shift-creator.php:224 options.php:207
+msgid "Wednesday"
+msgstr ""
+
+#: bulk-shift-creator.php:227 options.php:208
+msgid "Thursday"
+msgstr ""
+
+#: bulk-shift-creator.php:230 options.php:209
+msgid "Friday"
+msgstr ""
+
+#: bulk-shift-creator.php:233 options.php:210
+msgid "Saturday"
+msgstr ""
+
+#: bulk-shift-creator.php:236 options.php:204
+msgid "Sunday"
+msgstr ""
+
+#: bulk-shift-creator.php:241
+msgid "Dates"
+msgstr ""
+
+#: bulk-shift-creator.php:247
+msgid "Time"
+msgstr ""
+
+#: bulk-shift-creator.php:253
+msgid "Shift Type"
+msgstr ""
+
+#: bulk-shift-creator.php:266
+msgid "Shift Status"
+msgstr ""
+
+#: bulk-shift-creator.php:279 bulk-shift-creator.php:282
+msgid "Notify Employee"
+msgstr ""
+
+#: bulk-shift-creator.php:281
+msgid "Employee will only recieve one email"
+msgstr ""
+
+#: bulk-shift-creator.php:288
+msgid "Create Shifts"
+msgstr ""
+
+#: dashboard-widgets.php:45 employee-scheduler.php:726
+#: employee-scheduler.php:740 reports.php:743
+msgid "Employee"
+msgstr ""
+
+#: dashboard-widgets.php:46
+msgid "Clock In Time"
+msgstr ""
+
+#: dashboard-widgets.php:47 reports.php:741
+msgid "Shift"
+msgstr ""
+
+#: dashboard-widgets.php:69
+msgid "Shift details"
+msgstr ""
+
+#: dashboard-widgets.php:75 dashboard-widgets.php:151
+msgid "No one is clocked in right now."
+msgstr ""
+
+#: dashboard-widgets.php:138 reports.php:664
+msgid "Employee: "
+msgstr ""
+
+#: dashboard-widgets.php:142 employee-scheduler.php:860
+msgid "Date: "
+msgstr ""
+
+#: dashboard-widgets.php:143
+msgid "Note: "
+msgstr ""
+
+#: dashboard-widgets.php:147
+msgid "View Shift details"
+msgstr ""
+
+#: employee-scheduler.php:42
+msgid ""
+"Employee Scheduler cannot be activated, because it requires WordPress "
+"version 3.8 or higher!  Please update WordPress and try again."
+msgstr ""
+
+#: employee-scheduler.php:86
+msgctxt "Taxonomy General Name"
+msgid "Shift Types"
+msgstr ""
+
+#: employee-scheduler.php:87
+msgctxt "Taxonomy Singular Name"
+msgid "Shift Type"
+msgstr ""
+
+#: employee-scheduler.php:88
+msgid "Shift Types"
+msgstr ""
+
+#: employee-scheduler.php:89
+msgid "All Shift Types"
+msgstr ""
+
+#: employee-scheduler.php:90
+msgid "Parent Shift Type"
+msgstr ""
+
+#: employee-scheduler.php:91
+msgid "Parent Shift Type:"
+msgstr ""
+
+#: employee-scheduler.php:92
+msgid "New  Shift Type"
+msgstr ""
+
+#: employee-scheduler.php:93
+msgid "Add New Shift Type"
+msgstr ""
+
+#: employee-scheduler.php:94
+msgid "Edit Shift Type"
+msgstr ""
+
+#: employee-scheduler.php:95
+msgid "Update Shift Type"
+msgstr ""
+
+#: employee-scheduler.php:96
+msgid "Separate Shift Types with commas"
+msgstr ""
+
+#: employee-scheduler.php:97
+msgid "Search Shift Types"
+msgstr ""
+
+#: employee-scheduler.php:98
+msgid "Add or remove Shift Types"
+msgstr ""
+
+#: employee-scheduler.php:99
+msgid "Choose from the most used Shift Types"
+msgstr ""
+
+#: employee-scheduler.php:100 employee-scheduler.php:153
+#: employee-scheduler.php:232 employee-scheduler.php:352
+#: employee-scheduler.php:404
+msgid "Not Found"
+msgstr ""
+
+#: employee-scheduler.php:139
+msgctxt "Taxonomy General Name"
+msgid "Shift Statuses"
+msgstr ""
+
+#: employee-scheduler.php:140
+msgctxt "Taxonomy Singular Name"
+msgid "Shift Status"
+msgstr ""
+
+#: employee-scheduler.php:141
+msgid "Shift Statuses"
+msgstr ""
+
+#: employee-scheduler.php:142
+msgid "All Shift Statuses"
+msgstr ""
+
+#: employee-scheduler.php:143
+msgid "Parent Shift Status"
+msgstr ""
+
+#: employee-scheduler.php:144
+msgid "Parent Shift Status:"
+msgstr ""
+
+#: employee-scheduler.php:145
+msgid "New Shift Status"
+msgstr ""
+
+#: employee-scheduler.php:146
+msgid "Add New Shift Status"
+msgstr ""
+
+#: employee-scheduler.php:147
+msgid "Edit Shift Status"
+msgstr ""
+
+#: employee-scheduler.php:148
+msgid "Update Shift Status"
+msgstr ""
+
+#: employee-scheduler.php:149
+msgid "Separate Shift Statuses with commas"
+msgstr ""
+
+#: employee-scheduler.php:150
+msgid "Search Shift Statuses"
+msgstr ""
+
+#: employee-scheduler.php:151
+msgid "Add or remove Shift Statuses"
+msgstr ""
+
+#: employee-scheduler.php:152
+msgid "Choose from the most used Shift Statuses"
+msgstr ""
+
+#: employee-scheduler.php:218
+msgctxt "Taxonomy General Name"
+msgid "Job Category"
+msgstr ""
+
+#: employee-scheduler.php:219
+msgctxt "Taxonomy Singular Name"
+msgid "Job Category"
+msgstr ""
+
+#: employee-scheduler.php:220
+msgid "Job Categories"
+msgstr ""
+
+#: employee-scheduler.php:221
+msgid "All Job Categories"
+msgstr ""
+
+#: employee-scheduler.php:222
+msgid "Parent Job Category"
+msgstr ""
+
+#: employee-scheduler.php:223
+msgid "Parent Job Category:"
+msgstr ""
+
+#: employee-scheduler.php:224
+msgid "New Job Category"
+msgstr ""
+
+#: employee-scheduler.php:225
+msgid "Add New Job Category"
+msgstr ""
+
+#: employee-scheduler.php:226
+msgid "Edit Job Category"
+msgstr ""
+
+#: employee-scheduler.php:227
+msgid "Update Job Category"
+msgstr ""
+
+#: employee-scheduler.php:228
+msgid "Separate Job Categories with commas"
+msgstr ""
+
+#: employee-scheduler.php:229
+msgid "Search Job Categories"
+msgstr ""
+
+#: employee-scheduler.php:230
+msgid "Add or remove Job Categories"
+msgstr ""
+
+#: employee-scheduler.php:231
+msgid "Choose from the most used Job Categories"
+msgstr ""
+
+#: employee-scheduler.php:252
+msgctxt "Post Type General Name"
+msgid "Shifts"
+msgstr ""
+
+#: employee-scheduler.php:253
+msgctxt "Post Type Singular Name"
+msgid "Shift"
+msgstr ""
+
+#: employee-scheduler.php:254
+msgid "Shifts"
+msgstr ""
+
+#: employee-scheduler.php:255
+msgid "Parent Shift:"
+msgstr ""
+
+#: employee-scheduler.php:256
+msgid "All Shifts"
+msgstr ""
+
+#: employee-scheduler.php:257
+msgid "View Shift"
+msgstr ""
+
+#: employee-scheduler.php:258
+msgid "Add New Shift"
+msgstr ""
+
+#: employee-scheduler.php:259 employee-scheduler.php:302
+#: employee-scheduler.php:441
+msgid "Add New"
+msgstr ""
+
+#: employee-scheduler.php:260
+msgid "Edit Shift"
+msgstr ""
+
+#: employee-scheduler.php:261
+msgid "Update Shift"
+msgstr ""
+
+#: employee-scheduler.php:262
+msgid "Search Shifts"
+msgstr ""
+
+#: employee-scheduler.php:263 employee-scheduler.php:306
+#: employee-scheduler.php:445
+msgid "Not found"
+msgstr ""
+
+#: employee-scheduler.php:264 employee-scheduler.php:307
+#: employee-scheduler.php:446
+msgid "Not found in Trash"
+msgstr ""
+
+#: employee-scheduler.php:267
+msgid "shift"
+msgstr ""
+
+#: employee-scheduler.php:268
+msgid "Shifts you can assign to employees"
+msgstr ""
+
+#: employee-scheduler.php:295
+msgctxt "Post Type General Name"
+msgid "Jobs"
+msgstr ""
+
+#: employee-scheduler.php:296
+msgctxt "Post Type Singular Name"
+msgid "Job"
+msgstr ""
+
+#: employee-scheduler.php:297
+msgid "Jobs"
+msgstr ""
+
+#: employee-scheduler.php:298
+msgid "Parent Job:"
+msgstr ""
+
+#: employee-scheduler.php:299
+msgid "All Jobs"
+msgstr ""
+
+#: employee-scheduler.php:300
+msgid "View Job"
+msgstr ""
+
+#: employee-scheduler.php:301
+msgid "Add New Job"
+msgstr ""
+
+#: employee-scheduler.php:303
+msgid "Edit Job"
+msgstr ""
+
+#: employee-scheduler.php:304
+msgid "Update Job"
+msgstr ""
+
+#: employee-scheduler.php:305
+msgid "Search Jobs"
+msgstr ""
+
+#: employee-scheduler.php:310
+msgid "job"
+msgstr ""
+
+#: employee-scheduler.php:311
+msgid "jobs"
+msgstr ""
+
+#: employee-scheduler.php:338
+msgctxt "Taxonomy General Name"
+msgid "Expense Categories"
+msgstr ""
+
+#: employee-scheduler.php:339
+msgctxt "Taxonomy Singular Name"
+msgid "Expense Category"
+msgstr ""
+
+#: employee-scheduler.php:340
+msgid "Expense Categories"
+msgstr ""
+
+#: employee-scheduler.php:341
+msgid "All Expense Categories"
+msgstr ""
+
+#: employee-scheduler.php:342
+msgid "Parent Expense Category"
+msgstr ""
+
+#: employee-scheduler.php:343
+msgid "Parent Expense Category:"
+msgstr ""
+
+#: employee-scheduler.php:344
+msgid "New Expense Category"
+msgstr ""
+
+#: employee-scheduler.php:345
+msgid "Add Expense Category"
+msgstr ""
+
+#: employee-scheduler.php:346
+msgid "Edit Expense Category"
+msgstr ""
+
+#: employee-scheduler.php:347
+msgid "Update Expense Category"
+msgstr ""
+
+#: employee-scheduler.php:348
+msgid "Separate Expense Categories with commas"
+msgstr ""
+
+#: employee-scheduler.php:349
+msgid "Search Expense Categories"
+msgstr ""
+
+#: employee-scheduler.php:350
+msgid "Add or remove Expense Categories"
+msgstr ""
+
+#: employee-scheduler.php:351
+msgid "Choose from the most used Expense Categories"
+msgstr ""
+
+#: employee-scheduler.php:390
+msgctxt "Taxonomy General Name"
+msgid "Expense Statuses"
+msgstr ""
+
+#: employee-scheduler.php:391
+msgctxt "Taxonomy Singular Name"
+msgid "Expense Status"
+msgstr ""
+
+#: employee-scheduler.php:392
+msgid "Expense Statuses"
+msgstr ""
+
+#: employee-scheduler.php:393
+msgid "All Expense Statuses"
+msgstr ""
+
+#: employee-scheduler.php:394
+msgid "Parent Expense Status"
+msgstr ""
+
+#: employee-scheduler.php:395
+msgid "Parent Expense Status:"
+msgstr ""
+
+#: employee-scheduler.php:396
+msgid "New Expense Status"
+msgstr ""
+
+#: employee-scheduler.php:397
+msgid "Add Expense Status"
+msgstr ""
+
+#: employee-scheduler.php:398
+msgid "Edit Expense Status"
+msgstr ""
+
+#: employee-scheduler.php:399
+msgid "Update Expense Status"
+msgstr ""
+
+#: employee-scheduler.php:400
+msgid "Separate Expense Statuses with commas"
+msgstr ""
+
+#: employee-scheduler.php:401
+msgid "Search Expense Statuses"
+msgstr ""
+
+#: employee-scheduler.php:402
+msgid "Add or remove Expense Statuses"
+msgstr ""
+
+#: employee-scheduler.php:403
+msgid "Choose from the most used Expense Statuses"
+msgstr ""
+
+#: employee-scheduler.php:434
+msgctxt "Post Type General Name"
+msgid "Expenses"
+msgstr ""
+
+#: employee-scheduler.php:435
+msgctxt "Post Type Singular Name"
+msgid "Expense"
+msgstr ""
+
+#: employee-scheduler.php:436
+msgid "Expenses"
+msgstr ""
+
+#: employee-scheduler.php:437
+msgid "Parent Expense:"
+msgstr ""
+
+#: employee-scheduler.php:438
+msgid "All Expenses"
+msgstr ""
+
+#: employee-scheduler.php:439
+msgid "View Expense"
+msgstr ""
+
+#: employee-scheduler.php:440
+msgid "Add New Expense"
+msgstr ""
+
+#: employee-scheduler.php:442
+msgid "Edit Expense"
+msgstr ""
+
+#: employee-scheduler.php:443
+msgid "Update Expense"
+msgstr ""
+
+#: employee-scheduler.php:444
+msgid "Search Expenses"
+msgstr ""
+
+#: employee-scheduler.php:449
+msgid "expense"
+msgstr ""
+
+#: employee-scheduler.php:450
+msgid "Expenses submitted by employees"
+msgstr ""
+
+#: employee-scheduler.php:506
+msgid "Employee Contact Information"
+msgstr ""
+
+#: employee-scheduler.php:510 wpalchemy/clientinfo.php:28
+msgid "Street Address"
+msgstr ""
+
+#: employee-scheduler.php:516 wpalchemy/clientinfo.php:35
+msgid "City"
+msgstr ""
+
+#: employee-scheduler.php:522
+msgid "State/Province"
+msgstr ""
+
+#: employee-scheduler.php:528
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: employee-scheduler.php:534 wpalchemy/clientinfo.php:73
+#: wpalchemy/clientinfo.php:156
+msgid "Phone Number"
+msgstr ""
+
+#: employee-scheduler.php:727 employee-scheduler.php:741
+msgid "Search employees"
+msgstr ""
+
+#: employee-scheduler.php:728 employee-scheduler.php:742
+msgid "No employees found."
+msgstr ""
+
+#: employee-scheduler.php:729 employee-scheduler.php:743
+msgid "Add Employee"
+msgstr ""
+
+#: employee-scheduler.php:755 employee-scheduler.php:770
+msgid "Search jobs"
+msgstr ""
+
+#: employee-scheduler.php:756 employee-scheduler.php:771
+msgid "No jobs found."
+msgstr ""
+
+#: employee-scheduler.php:757 employee-scheduler.php:772
+msgid "Add Job"
+msgstr ""
+
+#: employee-scheduler.php:830
+msgid ""
+"We could not send a notification, because you did not select an employee.  "
+"Click your back button and select an employee for this shift, or uncheck the "
+"employee notification option."
+msgstr ""
+
+#: employee-scheduler.php:859
+msgid "You have been scheduled to work the following shift: "
+msgstr ""
+
+#: employee-scheduler.php:861
+msgid "Time: "
+msgstr ""
+
+#: employee-scheduler.php:862
+msgid "Doing the job: "
+msgstr ""
+
+#: employee-scheduler.php:864
+msgid "This shift repeats every "
+msgstr ""
+
+#: employee-scheduler.php:866
+msgid "until "
+msgstr ""
+
+#: employee-scheduler.php:871
+msgid "Shift Details: "
+msgstr ""
+
+#: instructions.php:8
+msgid "Instructions for using the Employee Scheduler"
+msgstr ""
+
+#: instructions.php:14
+msgid "Initial Set Up"
+msgstr ""
+
+#: instructions.php:16
+msgid "Plugin Settings"
+msgstr ""
+
+#: instructions.php:17
+msgid ""
+"The plugin has a few settings that you might want to adjust.  In the "
+"WordPress dashboard menu, click on <a href=\""
+msgstr ""
+
+#: instructions.php:18
+msgid ""
+"The first several settings relate to the email notifications sent to "
+"employees. You can change the sender name, sender email, and message subject."
+msgstr ""
+
+#: instructions.php:19
+msgid ""
+"The \"Admin Notifications\" settings let you decide whether or not to "
+"receive a notification when an employee leaves a note on a shift, or when a "
+"shift changes status.  You can change the email address that receives these "
+"notifications."
+msgstr ""
+
+#: instructions.php:20
+msgid ""
+"You can select what day of the week your work-week starts on, whether or not "
+"you want to record employees' location when they clock in and out, and other "
+"settings related to overtime hours and pay.  You can also turn on and off "
+"the email sent to employees to ask them to verify their payroll report."
+msgstr ""
+
+#: instructions.php:21
+msgid ""
+"You can choose whether the payroll report will be generated based on "
+"scheduled hours, or on actual hours worked.  If you choose \"scheduled hours,"
+"\" then the payroll report will be based on the scheduled start and end "
+"times for the shift.  The following shift statuses will be included in the "
+"report: assigned, tentative, worked.  If you choose to base the payroll on "
+"actual hours worked, then the clock-in and clock-out times will be used to "
+"calculate the payroll, and only shifts with the \"worked\" shift status will "
+"be added into the report."
+msgstr ""
+
+#: instructions.php:23
+msgid "Set up shift types"
+msgstr ""
+
+#: instructions.php:24
+msgid ""
+"Shifts can be organized into shift types if you want.  You might want to "
+"categorize shifts based on where the are worked or the type of work involved."
+msgstr ""
+
+#: instructions.php:25
+msgid "To create your shift types, go to <a href=\""
+msgstr ""
+
+#: instructions.php:28
+msgid ""
+"Extra: automatically assigned to shifts that employees create themselves, if "
+"they do work outside of their scheduled shifts."
+msgstr ""
+
+#: instructions.php:31
+msgid ""
+"Paid Time Off: If you want an employee to get paid time off, you can create "
+"a shift in this category, with a duration of the number of hours you want "
+"them to be paid for."
+msgstr ""
+
+#: instructions.php:35
+msgid ""
+"To create more shift types, fill in the \"Add New Shift Type\" form on the "
+"left side of the page.  You only need to fill in the name - you can ignore "
+"the \"slug\" field, and the \"description\" field is optional."
+msgstr ""
+
+#: instructions.php:36
+msgid ""
+"If you want to keep track of different kinds of \"Extra\" work, you can make "
+"shift types with \"Extra\" as their parent.  If you do this, the \"Record "
+"Extra Work\" form will let employees select what kind of extra work they are "
+"recording."
+msgstr ""
+
+#: instructions.php:38
+msgid "Set up shift statuses"
+msgstr ""
+
+#: instructions.php:39
+msgid ""
+"Shifts are also organized into statuses, such as \"tentative,\" \"assigned,"
+"\" and \"worked.\""
+msgstr ""
+
+#: instructions.php:40
+msgid "Several shift statuses have already been created for you:"
+msgstr ""
+
+#: instructions.php:43
+msgid ""
+"Assigned: Default status for a shift, indicates that this shift has been "
+"assigned to an employee"
+msgstr ""
+
+#: instructions.php:46
+msgid "Tentative: Shift has been assigned, but not cast in stone"
+msgstr ""
+
+#: instructions.php:49
+msgid "Unassigned: No one has been assigned to work this shift"
+msgstr ""
+
+#: instructions.php:52
+msgid "Worked: Employee has worked this shift"
+msgstr ""
+
+#: instructions.php:56
+msgid ""
+"Only shifts with the \"Worked\" shift status will appear in payroll reports "
+"and timesheets."
+msgstr ""
+
+#: instructions.php:57
+msgid ""
+"If you need additional shift statuses, you can create them by going to go to "
+"<a href=\""
+msgstr ""
+
+#: instructions.php:58
+msgid ""
+"Shift statuses have an extra field for color.  If you assign a color to a "
+"shift status, then that color will be used as the background color for "
+"shifts with that status on the schedule.  So you might want to give the "
+"\"Tentative\" status a light grey color, so that employees can easily see "
+"that the shift isn't cast in stone.  You will probably also want to assign a "
+"color to shifts that have been worked, so that you can easily see if someone "
+"missed a shift.  These colors are entirely optional."
+msgstr ""
+
+#: instructions.php:59
+msgid ""
+"To assign a color to an existing shift, click on the status name in the list "
+"of shift statuses.  Click in the \"color\" field, and a color wheel will "
+"appear.  When you like the color, click \"Update.\""
+msgstr ""
+
+#: instructions.php:61
+msgid "Create employees"
+msgstr ""
+
+#: instructions.php:62
+msgid ""
+"Next you need to set up your employees.  To do this, you will create User "
+"accounts for them."
+msgstr ""
+
+#: instructions.php:63 instructions.php:115
+msgid "Go to <a href=\""
+msgstr ""
+
+#: instructions.php:64
+msgid ""
+"Enter the information about an employee: username, name, email, password "
+"(the employee will be able to change the password).  In the dropdown menu "
+"labeled \"Role,\" make sure you select \"Employee.\""
+msgstr ""
+
+#: instructions.php:65
+msgid "Click \"Add New User.\""
+msgstr ""
+
+#: instructions.php:66
+msgid ""
+"Once you have created a user, there are some more fields you can fill in.  "
+"Click on <a href=\""
+msgstr ""
+
+#: instructions.php:68
+msgid "Create jobs"
+msgstr ""
+
+#: instructions.php:69
+msgid "Next you need to set up your jobs."
+msgstr ""
+
+#: instructions.php:70
+msgid ""
+"You can create categories for your jobs if you want - it is just like create "
+"shift types or shift statuses."
+msgstr ""
+
+#: instructions.php:71
+msgid "To create a job, go to <a href=\""
+msgstr ""
+
+#: instructions.php:72
+msgid ""
+"In the right-hand sidebar, you will see several boxes.  Most of these boxes "
+"will be auto-populated as you create shifts and expenses.  However, you "
+"might want to fill in some of these boxes.  Here are descriptions of these "
+"boxes:"
+msgstr ""
+
+#: instructions.php:75
+msgid ""
+"Job Category: If you are grouping your jobs into categories, here is where "
+"you select what category or categories this job belongs to."
+msgstr ""
+
+#: instructions.php:78
+msgid ""
+"Connected Shifts: This box will auto-populate, so you do not need to enter "
+"anything into it.  This box will show you all of the shifts associated with "
+"a job.  This box is likely to get very long, so you might want to click the "
+"little triangle next to the box title to collapse the box."
+msgstr ""
+
+#: instructions.php:81
+msgid ""
+"Connected Expenses: This box will auto-populate, so you do not need to enter "
+"anything into it.  When employees enter expenses, they can enter the client "
+"associated with that expense: those expenses will show up here."
+msgstr ""
+
+#: instructions.php:87
+msgid "Shortcodes"
+msgstr ""
+
+#: instructions.php:88
+msgid ""
+"Here are the shortcodes to display your schedule and other information on "
+"the site:"
+msgstr ""
+
+#: instructions.php:91
+msgid ""
+"Master Schedule.  Displays the full work schedule for all employees: <br /"
+"><code>[master_schedule]</code>"
+msgstr ""
+
+#: instructions.php:94
+msgid ""
+"Your Schedule.  Displays the schedule for the employee who is viewing the "
+"page (so if John Smith is viewing the site, this page will show him his "
+"schedule): <br /><code>[your_schedule]</code>"
+msgstr ""
+
+#: instructions.php:97
+msgid ""
+"Employee Profile.  Displays the employee's user profile let them edit their "
+"password and contact information:<br /><code>[employee_profile]</code>"
+msgstr ""
+
+#: instructions.php:100
+msgid ""
+"Today. Displays today's shifts to the employee who is viewing the page:<br /"
+"><code>[today]</code>"
+msgstr ""
+
+#: instructions.php:103
+msgid ""
+"Extra Work.  Displays a form where employees can enter the date, start time, "
+"end time, and description of extra work they do that is not a part of a "
+"scheduled shift: <br /><code>[extra_work]</code>"
+msgstr ""
+
+#: instructions.php:106
+msgid ""
+"Record Expense. Displays a form where employees can enter mileage and other "
+"expenses:<br /><code>[record_expense]</code>"
+msgstr ""
+
+#: instructions.php:111
+msgid "Creating the Schedule"
+msgstr ""
+
+#: instructions.php:112
+msgid "To create a single shift:"
+msgstr ""
+
+#: instructions.php:118
+msgid ""
+"Enter a title (this won't display anywhere on the website, but it's a good "
+"idea to make an informative title so site admins can recognize the shift)"
+msgstr ""
+
+#: instructions.php:121
+msgid ""
+"Enter a description if you want - employees will see this description when "
+"they view the shift detail."
+msgstr ""
+
+#: instructions.php:124
+msgid "In the shift details box, enter the date and times of the shift."
+msgstr ""
+
+#: instructions.php:127
+msgid ""
+"If you check the box next to \"notify employee\", the employee will receive "
+"an email telling them this shift has been created."
+msgstr ""
+
+#: instructions.php:130
+msgid ""
+"In the right sidebar, look for the box labeled \"Connected Jobs.\"  Click "
+"\"Add Job\" to choose a job."
+msgstr ""
+
+#: instructions.php:133
+msgid ""
+"In the right sidebar, look for the box labeled \"Connected Users.\"  Click "
+"\"Add Employee\" to choose the employee who will work this shift."
+msgstr ""
+
+#: instructions.php:136
+msgid ""
+"You can choose a Shift Status in the right sidebar.  If you do not choose a "
+"status, the shift will default to \"Tentative.\""
+msgstr ""
+
+#: instructions.php:139
+msgid "You can also choose a Shift Type in the right sidebar."
+msgstr ""
+
+#: instructions.php:142
+msgid "When you are happy with all of these details, click \"Publish.\""
+msgstr ""
+
+#: options.php:54 wpp2p/scb/AdminPage.php:467
+msgid "Settings"
+msgstr ""
+
+#: options.php:62
+msgid "Message Sender (Name)"
+msgstr ""
+
+#: options.php:67
+msgid "Email notifications sent to employees will come from this name"
+msgstr ""
+
+#: options.php:73 options.php:84
+msgid "Message Sender (Email Address)"
+msgstr ""
+
+#: options.php:78
+msgid "Email notifications sent to employees will come from this email address"
+msgstr ""
+
+#: options.php:89
+msgid ""
+"Email notifications sent to employees about scheduled shifts will have this "
+"subject"
+msgstr ""
+
+#: options.php:95
+msgid "Shift Status Notification"
+msgstr ""
+
+#: options.php:100
+msgid "Notify admin when an employee changes shift status"
+msgstr ""
+
+#: options.php:106
+msgid "Shift Note Notification"
+msgstr ""
+
+#: options.php:111
+msgid "Notify admin when an employee adds a note to a shift"
+msgstr ""
+
+#: options.php:117
+msgid "Admin Notification Email"
+msgstr ""
+
+#: options.php:122
+msgid ""
+"Enter the email address that will receive email notifications about employee "
+"activities"
+msgstr ""
+
+#: options.php:128
+msgid "Geolocation"
+msgstr ""
+
+#: options.php:133
+msgid "Check to record the location where employees clock in and out"
+msgstr ""
+
+#: options.php:139
+msgid "Week Starts On:"
+msgstr ""
+
+#: options.php:144
+msgid "For scheduling purposes, what day does the work-week start on?"
+msgstr ""
+
+#: options.php:175
+msgid "Turn on shift status notifications"
+msgstr ""
+
+#: options.php:182
+msgid "Turn on shift note notifications"
+msgstr ""
+
+#: options.php:196
+msgid "Record location when employees clock in and clock out"
+msgstr ""
+
+#: options.php:222
+msgid "Employee Scheduler"
+msgstr ""
+
+#: options.php:258
+msgid "Upgrade to Pro!"
+msgstr ""
+
+#: options.php:259
+msgid ""
+"Employee Scheduler Pro has more features to make it easier to manage your "
+"employees!"
+msgstr ""
+
+#: options.php:261
+msgid "Bulk create shifts"
+msgstr ""
+
+#: options.php:262
+msgid "Bulk edit shifts"
+msgstr ""
+
+#: options.php:263
+msgid "Create payroll reports"
+msgstr ""
+
+#: options.php:264
+msgid "Easily filter shifts and expenses on several criteria"
+msgstr ""
+
+#: options.php:265
+msgid ""
+"View report comparing employees' scheduled hours to hours actually worked"
+msgstr ""
+
+#: options.php:268
+msgid "Uprade to Pro"
+msgstr ""
+
+#: options.php:270
+msgid "Donate now!"
+msgstr ""
+
+#: options.php:271
+msgid ""
+"Show your appreciation and support continued development of this plugin."
+msgstr ""
+
+#: options.php:273
+msgid "Donate"
+msgstr ""
+
+#: reports.php:19
+msgid "Payroll Report"
+msgstr ""
+
+#: reports.php:25
+msgid "Select Date Range:"
+msgstr ""
+
+#: reports.php:27 wpalchemy/shiftinfo.php:15 wpalchemy/shiftinfo.php:34
+msgid "From"
+msgstr ""
+
+#: reports.php:27 wpalchemy/shiftinfo.php:17 wpalchemy/shiftinfo.php:36
+msgid "to"
+msgstr ""
+
+#: reports.php:32 reports.php:687
+msgid "Generate Report"
+msgstr ""
+
+#: reports.php:38 reports.php:693
+msgid "You must enter both a start date and an end date to create a report."
+msgstr ""
+
+#: reports.php:40 reports.php:695
+msgid "The report end date must be after the report begin date."
+msgstr ""
+
+#: reports.php:49
+msgid "Payroll report for "
+msgstr ""
+
+#: reports.php:53
+msgid "Staff"
+msgstr ""
+
+#: reports.php:54
+msgid "Total Reg."
+msgstr ""
+
+#: reports.php:55
+msgid "Total OT"
+msgstr ""
+
+#: reports.php:56
+msgid "PTO Hrs."
+msgstr ""
+
+#: reports.php:57
+msgid "Total Hrs."
+msgstr ""
+
+#: reports.php:58
+msgid "Total Mileage"
+msgstr ""
+
+#: reports.php:59
+msgid "Receipts"
+msgstr ""
+
+#: reports.php:60
+msgid "Deductions"
+msgstr ""
+
+#: reports.php:61
+msgid "Gross Pay"
+msgstr ""
+
+#: reports.php:102
+msgid "Total:"
+msgstr ""
+
+#: reports.php:658
+msgid "Scheduled vs. Worked Report"
+msgstr ""
+
+#: reports.php:677
+msgid "Date Range: "
+msgstr ""
+
+#: reports.php:679
+msgid "From "
+msgstr ""
+
+#: reports.php:681 views.php:158
+msgid " to "
+msgstr ""
+
+#: reports.php:742 views.php:937 views.php:1063 wpalchemy/expenseinfo.php:5
+#: wpalchemy/shiftinfo.php:5 wpalchemy/shiftinfo.php:98
+msgid "Date"
+msgstr ""
+
+#: reports.php:744
+msgid "Duration Scheduled"
+msgstr ""
+
+#: reports.php:745
+msgid "Duration Worked"
+msgstr ""
+
+#: reports.php:746
+msgid "Difference"
+msgstr ""
+
+#: reports.php:747 views.php:186
+msgid "Notes"
+msgstr ""
+
+#: reports.php:769
+msgid "Edit"
+msgstr ""
+
+#: reports.php:770
+msgid "View"
+msgstr ""
+
+#: reports.php:790
+msgid "Shift times not set."
+msgstr ""
+
+#: reports.php:795
+msgid "Employee has not clocked in"
+msgstr ""
+
+#: reports.php:798
+msgid "Employee has not clocked out."
+msgstr ""
+
+#: reports.php:821
+msgid "NA"
+msgstr ""
+
+#: reports.php:839
+msgid "Sorry, no shifts were found"
+msgstr ""
+
+#: views.php:10
+msgid "Shift Details"
+msgstr ""
+
+#: views.php:132
+msgid "Clock Out"
+msgstr ""
+
+#: views.php:143
+msgid "Clock In"
+msgstr ""
+
+#: views.php:151
+msgid "Employee:"
+msgstr ""
+
+#: views.php:154
+msgid "Job:"
+msgstr ""
+
+#: views.php:156
+msgid "When: "
+msgstr ""
+
+#: views.php:158
+msgid "from "
+msgstr ""
+
+#: views.php:165
+msgid "Shift Type: "
+msgstr ""
+
+#: views.php:167
+msgid "Shift Status: "
+msgstr ""
+
+#: views.php:173
+msgid "Change shift status:"
+msgstr ""
+
+#: views.php:179
+msgid "Update Status"
+msgstr ""
+
+#: views.php:198
+msgid ""
+"Add a note about this shift, such as corrections to your clock-in and clock-"
+"out times."
+msgstr ""
+
+#: views.php:200
+msgid "The site admin will receive an email with your note"
+msgstr ""
+
+#: views.php:204
+msgid "Add Note"
+msgstr ""
+
+#: views.php:210
+msgid "Edit this shift"
+msgstr ""
+
+#: views.php:218 views.php:555 views.php:712 views.php:823 views.php:900
+#: views.php:972 views.php:1085
+msgid "You must be logged in to view this page."
+msgstr ""
+
+#: views.php:419
+#, php-format
+msgid "Schedule for %s through %s"
+msgstr ""
+
+#: views.php:421 views.php:617
+msgid "Previous Week"
+msgstr ""
+
+#: views.php:422 views.php:618
+msgid "This Week"
+msgstr ""
+
+#: views.php:423 views.php:619
+msgid "Next Week"
+msgstr ""
+
+#: views.php:537 views.php:695
+msgid "View Shift Details"
+msgstr ""
+
+#: views.php:543 views.php:699
+msgid "No shifts"
+msgstr ""
+
+#: views.php:615
+#, php-format
+msgid "Your Schedule for %s through %s"
+msgstr ""
+
+#: views.php:751
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr ""
+
+#: views.php:759
+msgid "The Email you entered is not valid.  please try again."
+msgstr ""
+
+#: views.php:761
+msgid "This email is already used by another user.  try a different one."
+msgstr ""
+
+#: views.php:788
+msgid "First Name"
+msgstr ""
+
+#: views.php:792
+msgid "Last Name"
+msgstr ""
+
+#: views.php:796
+msgid "E-mail *"
+msgstr ""
+
+#: views.php:800
+msgid "Password *"
+msgstr ""
+
+#: views.php:804
+msgid "Repeat Password *"
+msgstr ""
+
+#: views.php:814
+msgid "Update"
+msgstr ""
+
+#: views.php:880
+msgid "You have %i shift(s) scheduled today.  Which would you like to view?"
+msgstr ""
+
+#: views.php:887
+msgid "Job: "
+msgstr ""
+
+#: views.php:893
+msgid "You do not have any shifts scheduled today."
+msgstr ""
+
+#: views.php:935
+msgid "Use this form to record work you do outside of your scheduled shifts."
+msgstr ""
+
+#: views.php:939
+msgid "Start Time"
+msgstr ""
+
+#: views.php:941
+msgid "End Time"
+msgstr ""
+
+#: views.php:948
+msgid "Type of Work"
+msgstr ""
+
+#: views.php:964 views.php:1079
+msgid "Description"
+msgstr ""
+
+#: views.php:968
+msgid "Record work"
+msgstr ""
+
+#: views.php:1028
+msgid "Your extra work has been recorded.  "
+msgstr ""
+
+#: views.php:1028
+msgid "View extra work shift"
+msgstr ""
+
+#: views.php:1030
+msgid "Sorry, there was an error recording your work."
+msgstr ""
+
+#: views.php:1060
+msgid "Use this form to record your expenses and mileage."
+msgstr ""
+
+#: views.php:1065
+msgid "Expense Type"
+msgstr ""
+
+#: views.php:1069
+msgid "Amount (currency or number of miles)"
+msgstr ""
+
+#: views.php:1081
+msgid "Record Expense"
+msgstr ""
+
+#: views.php:1177
+msgid "Your expense has been recorded."
+msgstr ""
+
+#: views.php:1179
+msgid "Sorry, there was an error recording your expense."
+msgstr ""
+
+#: wpalchemy/clientdetails.php:26
+msgid "Behavior Goals"
+msgstr ""
+
+#: wpalchemy/clientdetails.php:27
+msgid ""
+"Enter as many behavior goals as you need.  You can mark behavior goals as "
+"active to make them appear in employees's documentation reports."
+msgstr ""
+
+#: wpalchemy/clientdetails.php:29
+msgid "Remove All Behavior Goals"
+msgstr ""
+
+#: wpalchemy/clientdetails.php:35
+msgid "Goal"
+msgstr ""
+
+#: wpalchemy/clientdetails.php:44
+msgid "Add Another Behavior Goal"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:5
+msgid "School"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:12
+msgid "Remove All Addresses"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:20
+msgid "Address Description"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:42
+msgid "State"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:49
+msgid "Zip"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:58
+msgid "Remove This Address"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:63
+msgid "Add Another Address"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:66 wpalchemy/clientinfo.php:149
+msgid "Phone Number(s)"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:68 wpalchemy/clientinfo.php:151
+msgid "Remove All Phone Numbers"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:77 wpalchemy/clientinfo.php:160
+msgid "Phone Number Type"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:88 wpalchemy/clientinfo.php:170
+msgid "Remove This Phone Number"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:93 wpalchemy/clientinfo.php:175
+msgid "Add Another Phone Number"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:97 wpalchemy/clientinfo.php:179
+msgid "Email Address(es)"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:98 wpalchemy/clientinfo.php:180
+msgid "Remove All Email Addresses"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:103 wpalchemy/clientinfo.php:185
+msgid "Email Address"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:107 wpalchemy/clientinfo.php:189
+msgid "Email Address Type"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:117 wpalchemy/clientinfo.php:198
+msgid "Remove This Email Address"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:122 wpalchemy/clientinfo.php:203
+msgid "Add Another Email Address"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:130
+msgid "Parents/Guardians"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:131
+msgid "You can enter as many parents/guardians as you need"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:133
+msgid "Remove All Parents/Guardians"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:140 wpp2p/admin/tools-page.php:64
+msgid "Name"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:144
+msgid "Relation to Client"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:145
+msgid "Mother, Father, Nanny, etc."
+msgstr ""
+
+#: wpalchemy/clientinfo.php:206
+msgid "Remove This Parent/Guardian"
+msgstr ""
+
+#: wpalchemy/clientinfo.php:211
+msgid "Add Another Parent/Guardian"
+msgstr ""
+
+#: wpalchemy/expenseinfo.php:12
+msgid "Amount (miles or dollars)"
+msgstr ""
+
+#: wpalchemy/expenseinfo.php:15
+msgid "Numbers only, no currency symbol"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:12
+msgid "Scheduled Time"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:14
+msgid "Use 24-hour time format."
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:26
+msgid "<p>Scheduled duration: "
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:32
+msgid "Actual Time Worked (reported by employee)"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:45
+msgid "<p>Actual duration: "
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:53
+msgid "Locations (approximate)"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:55
+msgid "Clock-In Location:"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:57
+msgid "Clock-Out Location:"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:65
+msgid "Notification"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:68
+msgid "Notify Employee that Shift has been Created/Updated?"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:69
+msgid " Notify Employee"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:78
+msgid "Internal Notes (this will only be seen by site admins)"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:86
+msgid "Employee Notes"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:87
+msgid "These notes are left by employees"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:91
+msgid "Remove All Notes"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:101
+msgid "Note"
+msgstr ""
+
+#: wpalchemy/shiftinfo.php:110
+msgid "Add Another Note"
+msgstr ""
+
+#: wpp2p/admin/box.php:48
+msgid "Are you sure you want to delete all connections?"
+msgstr ""
+
+#: wpp2p/admin/box.php:140
+msgid "Search"
+msgstr ""
+
+#: wpp2p/admin/box.php:230
+msgid "previous"
+msgstr ""
+
+#: wpp2p/admin/box.php:231
+msgid "next"
+msgstr ""
+
+#: wpp2p/admin/box.php:232
+msgid "of"
+msgstr ""
+
+#: wpp2p/admin/dropdown-user.php:32
+msgid "Filter"
+msgstr ""
+
+#: wpp2p/admin/factory.php:88
+msgid " (from)"
+msgstr ""
+
+#: wpp2p/admin/factory.php:89
+msgid " (to)"
+msgstr ""
+
+#: wpp2p/admin/field-delete.php:7
+msgid "Delete all connections"
+msgstr ""
+
+#: wpp2p/admin/field-delete.php:16
+msgid "Delete connection"
+msgstr ""
+
+#: wpp2p/admin/tools-page.php:7
+msgid "Connection Types"
+msgstr ""
+
+#: wpp2p/admin/tools-page.php:41
+#, php-format
+msgid "<em>%s</em> is not a registered connection type."
+msgstr ""
+
+#: wpp2p/admin/tools-page.php:50
+#, php-format
+msgid "Converted %1$s connections from <em>%2$s</em> to <em>%3$s</em>."
+msgstr ""
+
+#: wpp2p/admin/tools-page.php:65
+msgid "Information"
+msgstr ""
+
+#: wpp2p/admin/tools-page.php:66
+msgid "Connections"
+msgstr ""
+
+#: wpp2p/admin/tools-page.php:74
+msgid "No connection types registered."
+msgstr ""
+
+#: wpp2p/admin/tools-page.php:76
+#, php-format
+msgid "To register a connection type, see <a href=\"%s\">the wiki</a>."
+msgstr ""
+
+#: wpp2p/admin/tools-page.php:93
+msgid "Convert to registered connection type:"
+msgstr ""
+
+#: wpp2p/admin/tools-page.php:129
+msgid "Go"
+msgstr ""
+
+#: wpp2p/connection-type.php:91
+msgid "Create connections"
+msgstr ""
+
+#: wpp2p/connection-type.php:109
+#, php-format
+msgid "Connected %s"
+msgstr ""
+
+#: wpp2p/scb/AdminPage.php:228
+msgid "Settings <strong>saved</strong>."
+msgstr ""
+
+#: wpp2p/side-user.php:16
+msgid "Users"
+msgstr ""
+
+#: wpp2p/side-user.php:25
+msgid "User"
+msgstr ""
+
+#: wpp2p/side-user.php:26
+msgid "Search Users"
+msgstr ""
+
+#: wpp2p/side-user.php:27
+msgid "No users found."
+msgstr ""
+
+#: wpp2p/widget.php:19
+msgid "Posts 2 Posts"
+msgstr ""
+
+#: wpp2p/widget.php:20
+msgid "A list of posts connected to the current post"
+msgstr ""
+
+#: wpp2p/widget.php:37
+msgid "Title:"
+msgstr ""
+
+#: wpp2p/widget.php:44
+msgid "Connection type:"
+msgstr ""
+
+#: wpp2p/widget.php:49
+msgid "Connection listing:"
+msgstr ""
+
+#: wpp2p/widget.php:55
+msgid "connected"
+msgstr ""
+
+#: wpp2p/widget.php:56
+msgid "related"
+msgstr ""
