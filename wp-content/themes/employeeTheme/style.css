@@ -7,3 +7,31 @@ Author URI:
 Version: 1.0
 Tags:
 */
+
+
+.header{
+  width: 100%;
+  background-color: #49494A;
+  height: 4em;
+}
+.register_link{
+  text-decoration: none;
+  color: #3399D4;
+  font-size: 1.25em;
+  position: relative;
+  left: 5em;
+  top: 1em;
+}
+body{
+  background: url("Lav_Color_Vertical.png") center no-repeat;
+}
+
+.footer{
+  color: #3399D4;
+  position: absolute;
+  bottom: 1em;
+  text-align: center;
+}
+.footer_content{
+  
+}

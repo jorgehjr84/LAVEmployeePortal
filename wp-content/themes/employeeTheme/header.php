@@ -4,6 +4,6 @@
 </head>
     <body>
 
-      <div class="header">
+      <div class="header col-md-2">
           LAV Employee Portal
       </div>

@@ -1,18 +1,21 @@
 <html>
   <head>
     <link href="<?php bloginfo('stylesheet_url'); ?>" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 </head>
     <body>
-        <div class="header">
-            LAV Employee Portal
+        <div class="header col-md-12">
+          <a class="register_link col-md-1 col-md-offset-10" href="<?php echo get_permalink( get_page_by_path( 'Registration' )->ID ); ?>">Register</a>
         </div>
 
         <div class="content">
-            This is my Content
+
         </div>
 
         <div class="footer">
-          This is the Footer
+          <div class="footer_content">LAV Employee Portal</div>
+
         </div>
 
     </body>
