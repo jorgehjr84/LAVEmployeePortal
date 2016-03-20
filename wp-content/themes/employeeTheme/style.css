@@ -28,10 +28,8 @@ body{
 
 .footer{
   color: #3399D4;
+  width: 100%;
   position: absolute;
   bottom: 1em;
   text-align: center;
-}
-.footer_content{
-  
 }
