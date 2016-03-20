@@ -33,3 +33,18 @@ body{
   bottom: 1em;
   text-align: center;
 }
+
+.login_field{
+  text-align: center;
+}
+
+.login_link{
+  background-color: #49494A;
+  color: #3399D4;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 2px;
+  font-size: 2em;
+  position: relative;
+  top: 17em;
+    }
