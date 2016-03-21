@@ -47,4 +47,13 @@ body{
   font-size: 2em;
   position: relative;
   top: 17em;
-    }
+  }
+
+/* Login Form */
+#lav_login_form p label{
+  color: purple;
+}
+#lav_login_formuser_login{
+  width: 30em;
+  background-color: blue;
+}
