@@ -9,6 +9,22 @@
 
 
       <div class="header col-md-12">
-        <a class="register_link col-md-1 col-md-offset-10" href="<?php echo get_permalink( get_page_by_path( 'register' )->ID ); ?>">Register</a>
+        <?php
+          if (is_user_logged_in()) {
+            global $current_user;
+            get_currentuserinfo();
+            echo 'Hello,' . $current_user->data->display_name;
+              // lavprint($current_user);
+            echo '<br>';
+            echo 'Current User Level ' . $current_user->user_level;
+          }else{
+            ?>
+              <a class="register_link col-md-1 col-md-offset-10" href="<?php echo get_permalink( get_page_by_path( 'register' )->ID ); ?>">Register</a>
+
+            <?php
+
+          }
+
+        ?>
         </div>
       </div>
