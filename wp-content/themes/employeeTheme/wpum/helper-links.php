@@ -9,7 +9,7 @@
  * @since       1.0.0
  */
 ?>
-<div class="wpum-helper-links col-md-offset-4">
+<div class="wpum-helper-links ">
 
 	<?php if ( $login == 'yes' ) : ?>
 	<p class="wpum-login-url">

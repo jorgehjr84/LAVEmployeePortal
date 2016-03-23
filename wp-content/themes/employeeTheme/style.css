@@ -49,22 +49,59 @@ body{
   }
 
 /* Login Form */
+.wpum-login-form label{
+    color: #49494A;
+}
+.login-username{
+  text-align: center;
+  position: relative;
+  top: 11em;
+}
+.login-password{
+  text-align: center;
+  position: relative;
+  top: 11em;
+}
+.login-remember{
+  text-align: center;
+  position: relative;
+  top: 11em;
+}
+.login-submit{
+  text-align: center;
+  position: relative;
+  top: 11em;
+}
+.wpum-helper-links {
+  text-align: center;
+}
 #lav_login_form p label{
-
+  width: 10em;
 }
 #lav_login_formuser_login{
   width: 30em;
-  background-color: blue;
+}
+#lav_login_formuser_pass{
+  width: 30em;
 }
 
 /* Registration Form */
 
 .wpum-registration-form{
   position: relative;
-  top: 7em;
+  top: 9em;
 }
 .wpum-helper-links{
   position: relative;
-  top: 7em;
-  
+  top: 14em;
+}
+.wpum-registration-form label{
+  color: #49494A;
+}
+.fieldset-comments{
+  display: none;
+}
+.wpum-registration-form .button{
+  position: relative;
+  top: 3em;
 }
