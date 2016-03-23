@@ -19,7 +19,7 @@
             echo 'Current User Level ' . $current_user->user_level;
           }else{
             ?>
-              <a class="register_link col-md-1 col-md-offset-10" href="<?php echo get_permalink( get_page_by_path( 'register' )->ID ); ?>">Register</a>
+              <a class="register_link col-md-1 col-md-offset-11" href="<?php echo get_permalink( get_page_by_path( 'register' )->ID ); ?>">Register</a>
 
             <?php
 

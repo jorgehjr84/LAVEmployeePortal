@@ -19,7 +19,6 @@ Tags:
   color: #3399D4;
   font-size: 1.25em;
   position: relative;
-  left: 5em;
   top: 1em;
 }
 body{
@@ -51,9 +50,21 @@ body{
 
 /* Login Form */
 #lav_login_form p label{
-  color: purple;
+
 }
 #lav_login_formuser_login{
   width: 30em;
   background-color: blue;
+}
+
+/* Registration Form */
+
+.wpum-registration-form{
+  position: relative;
+  top: 7em;
+}
+.wpum-helper-links{
+  position: relative;
+  top: 7em;
+  
 }
