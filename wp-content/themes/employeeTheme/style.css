@@ -141,3 +141,22 @@ body{
 .wpaesm-assigned{
   margin-left: 2em;
 }
+
+
+/* User Directory Settings */
+.wpum-user-listings li{
+  list-style: none;
+  margin-bottom: 3em;
+  margin-left: 4em;
+}
+.wpum-user-listings li a img{
+  float: left;
+  margin-right: 2em;
+}
+/* .wpum-user-listings li{
+  margin-bottom: 1em;
+}
+.wpum-user-listings a{
+  float: left;
+}
+ */
