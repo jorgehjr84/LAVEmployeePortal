@@ -9,9 +9,9 @@ Tags:
 */
 
 
-.header{
-  width: 100%;
-  background-color: #49494A;
+.navbar{
+  /* width: 100%; */
+  background-color: #49494A !important;
   height: 4em;
 }
 .register_link{
@@ -20,6 +20,10 @@ Tags:
   font-size: 1.25em;
   position: relative;
   top: 1em;
+}
+.welcome_message{
+  float: right;
+  color: #3399D4;
 }
 body{
   background: url("Lav_Color_Vertical.png") center no-repeat;
@@ -104,4 +108,36 @@ body{
 .wpum-registration-form .button{
   position: relative;
   top: 3em;
+}
+
+
+
+/* Plugin ShortCode Styling */
+
+.previous{
+  list-style: none;
+}
+.this{
+  list-style: none;
+}
+.next{
+  list-style: none;
+}
+#master-schedule > thead > tr > th > span{
+  margin-left: 2em;
+}
+#master-schedule > tbody > tr > td > span{
+  margin-left: 2em;
+}
+
+#master-schedule > tbody{
+  border-top: .5em solid black;
+  border-bottom: .5em solid black;
+}
+#master-schedule > tbody > tr:nth-child(1){
+  border-top: .25em solid grey;
+  border-bottom: .25em solid grey;
+}
+.wpaesm-assigned{
+  margin-left: 2em;
 }

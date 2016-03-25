@@ -32,8 +32,8 @@
      ?>
     <body>
 
-      <div class="row">
-        <div class="header col-md-12">
+      <!-- <div class="row">
+        <div class="header col-md-12"> -->
 
 
       <?php if(is_user_logged_in()){ ?>
@@ -54,29 +54,32 @@
                   <li ><a href="<?php echo get_admin_url(); ?>">Admin</a></li>
                 <?php } ?>
             </ul>
+
+            <div class="welcome_message">
+              <?php
+                  echo 'Hello,' . $current_user->data->display_name;
+                    // lavprint($current_user);
+                  echo '<br>';
+              ?>
+                <div class="logout_link">
+                  <?php echo do_shortcode('[wpum_logout redirect="Login" label="Logout"]'); ?>
+                </div>
+            </div> <!-- End of welcome Message -->
+
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
       </nav>
 
-        <div class="welcome_message">
 
-
-          <?php
-
-
-              echo 'Hello,' . $current_user->data->display_name;
-                // lavprint($current_user);
-              echo '<br>';
-              echo 'Current User Level ' . $current_user->user_level;
-               ?>
-           </div>
 
 
       <?php }else{ ?>
+            <nav class="navbar navbar-default">
               <a class="register_link col-md-1 col-md-offset-11" href="<?php echo get_permalink( get_page_by_path( 'register' )->ID ); ?>">Register</a>
+            </nav>
         <?php } ?>
-        </div>
-            </div>
+        <!-- </div>
+            </div> -->
 
 
         <!-- <?php
