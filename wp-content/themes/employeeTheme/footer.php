@@ -1,6 +1,5 @@
 <div class="footer">
-  This is the Footer
-</div>
+LAV Employee Portal</div>
 
   </body>
 </html>

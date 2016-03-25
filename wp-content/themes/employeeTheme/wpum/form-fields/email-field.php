@@ -10,7 +10,7 @@
 ?>
 <input
 	type="email"
-	class="input-email <?php echo ! empty( $field['class'] ) ? $field['class'] : ''; ?>"
+	class="input-email <?php echo ! empty( $field['class'] ) ? $field['class'] : ''; ?> col-md-4 col-md-offset-4"
 	name="<?php echo esc_attr( isset( $field['name'] ) ? $field['name'] : $key ); ?>"
 	id="<?php echo esc_attr( $key ); ?>"
 	placeholder="<?php echo ! empty( $field['placeholder'] ) ? esc_attr( $field['placeholder'] ) : ''; ?>"

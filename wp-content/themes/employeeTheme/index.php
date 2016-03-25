@@ -1,10 +1,9 @@
 
 <?php get_header(); ?>
   <div class="content">
-      This is my Content
   </div>
 
-  <a href="<?php echo get_permalink( get_page_by_path( 'login' )->ID ); ?>">Login</a>
-  <a href="<?php echo get_permalink( get_page_by_path( 'about' )->ID ); ?>">About</a>
-
+  <div class="login_field col-md-12">
+      <a class="login_link col-md-2 col-md-offset-5 " href="<?php echo get_permalink( get_page_by_path( 'login' )->ID ); ?>">Login</a>
+  </div>
   <?php get_footer(); ?>

@@ -7,3 +7,137 @@ Author URI:
 Version: 1.0
 Tags:
 */
+
+
+.navbar{
+  /* width: 100%; */
+  background-color: #49494A !important;
+  height: 4em;
+}
+.register_link{
+  text-decoration: none;
+  color: #3399D4;
+  font-size: 1.25em;
+  position: relative;
+  top: 1em;
+}
+.welcome_message{
+  float: right;
+  color: #3399D4;
+}
+body{
+  background: url("Lav_Color_Vertical.png") center no-repeat;
+}
+
+.footer{
+  color: #3399D4;
+  width: 100%;
+  position: absolute;
+  bottom: 1em;
+  text-align: center;
+}
+
+.login_field{
+  text-align: center;
+}
+
+.login_link{
+  background-color: #49494A;
+  color: #3399D4;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 2px;
+  font-size: 2em;
+  position: relative;
+  top: 17em;
+  }
+
+/* Login Form */
+.wpum-login-form label{
+    color: #49494A;
+}
+.login-username{
+  text-align: center;
+  position: relative;
+  top: 11em;
+}
+.login-password{
+  text-align: center;
+  position: relative;
+  top: 11em;
+}
+.login-remember{
+  text-align: center;
+  position: relative;
+  top: 11em;
+}
+.login-submit{
+  text-align: center;
+  position: relative;
+  top: 11em;
+}
+.wpum-helper-links {
+  text-align: center;
+}
+#lav_login_form p label{
+  width: 10em;
+}
+#lav_login_formuser_login{
+  width: 30em;
+}
+#lav_login_formuser_pass{
+  width: 30em;
+}
+
+/* Registration Form */
+
+.wpum-registration-form{
+  position: relative;
+  top: 9em;
+}
+.wpum-helper-links{
+  position: relative;
+  top: 14em;
+}
+.wpum-registration-form label{
+  color: #49494A;
+}
+.fieldset-comments{
+  display: none;
+}
+.wpum-registration-form .button{
+  position: relative;
+  top: 3em;
+}
+
+
+
+/* Plugin ShortCode Styling */
+
+.previous{
+  list-style: none;
+}
+.this{
+  list-style: none;
+}
+.next{
+  list-style: none;
+}
+#master-schedule > thead > tr > th > span{
+  margin-left: 2em;
+}
+#master-schedule > tbody > tr > td > span{
+  margin-left: 2em;
+}
+
+#master-schedule > tbody{
+  border-top: .5em solid black;
+  border-bottom: .5em solid black;
+}
+#master-schedule > tbody > tr:nth-child(1){
+  border-top: .25em solid grey;
+  border-bottom: .25em solid grey;
+}
+.wpaesm-assigned{
+  margin-left: 2em;
+}
